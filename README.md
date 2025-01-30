@@ -10,4 +10,8 @@ The Mythical Man-Month is a classic book in software engineering written by Fred
 - **Complexity in Software Development**: The challenges of coordinating large teams.
 - **Timeless Lessons**: The book remains relevant even decades after its publication.
 
+## Comment from Tonyzsp
+I found this article very useful! It gives a **clear explanation** of Git workflows, which helps developers collaborate efficiently. Thanks for sharing this great article!  
+**Tonyzsp**
+
 *Contributor: Leo Wu*
